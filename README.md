@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<code>DevOps Engineer at CWI Software</code><br>
+<code>DevOps Engineer</code><br>
 <code>DevOps Instructor at CWI Crescer</code><br>
-<code>Cloud Architect and Platform Engineer at EazyOps</code><br>
-<code>Instructor at EazyOps Academy</code>
 
 ## 
 <!--
